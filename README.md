@@ -36,7 +36,3 @@ GLYPH is a zero-dependency web application designed for raw text manipulation. I
 | Key | Action |
 | :--- | :--- |
 | `CTRL` + `S` | Quick export to `.txt` |
-
-## License
-
-MIT © [Your Name]
